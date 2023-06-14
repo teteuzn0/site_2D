@@ -5,7 +5,7 @@
     }
     
     .cabeçalho{
-    background-color: lemonchiffon;
+    background-color: rgb(248, 0, 0);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -18,7 +18,7 @@
     }
     
     .cabeçalho_titulo{
-    font-size: 50px;
+        font-size: 50px;
     }
     
     .cabeçalho_lista_item{
@@ -27,7 +27,7 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(lemonchiffon, #dd371a);
+    background-image: linear-gradient(rgb(0, 0, 0), #dd371a);
     display: flex;
     justify-content: space-around;
     align-items: center;

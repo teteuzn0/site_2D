@@ -27,7 +27,6 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(255, 255, 255), #0e0d0d);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -40,4 +39,11 @@
     
     .imagem_arvore{
     width: 15%;
+    }
+    .cor-de-fundo{
+        background-image: linear-gradient(rgb(255, 255, 255), #0e0d0d);
+    }
+
+    .boitata{
+        width:15%;
     }

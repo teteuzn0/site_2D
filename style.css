@@ -47,3 +47,26 @@
     .boitata{
         width:15%;
     }
+
+        .texto{
+            font-size: 25px;
+            color: aliceblue;
+        }
+
+        .imagem{
+            width:20% ;
+         }
+
+   .texto1{
+    font-size: 30px;
+    color: aliceblue;
+   }
+   
+   .texto2{
+    font-size:  20%; 
+color: aliceblue;
+}
+
+.sub_titulo{
+    font-size: 30px;
+}
